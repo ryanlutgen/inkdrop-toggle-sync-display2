@@ -1,0 +1,13 @@
+{
+  "name": "toggle-sync-display",
+  "main": "./src/index",
+  "version": "0.1.0",
+  "description": "Allows for the toggling of Inkdrop's sync status in the notebook list",
+  "keywords": [],
+  "repository": "https://github.com/ryanlutgen/inkdrop-toggle-sync-display",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {}
+}
